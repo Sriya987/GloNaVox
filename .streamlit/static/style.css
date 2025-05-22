@@ -1,0 +1,12 @@
+/* Custom styles for sidebar */
+section[data-testid="stSidebar"] {
+    width: 100px !important;
+    min-width: 100px !important;
+    max-width: 100px !important;
+}
+
+section[data-testid="stSidebar"] > div {
+    width: 100px !important;
+    min-width: 100px !important;
+    max-width: 100px !important;
+}

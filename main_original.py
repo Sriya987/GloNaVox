@@ -5,7 +5,7 @@ from PIL import Image
 import os
 
 # Set page configuration
-st.set_page_config(page_title="GlonaVox", page_icon="🌍")
+st.set_page_config(page_title="GlonaVox", page_icon="🌍",initial_sidebar_state="collapsed")
 
 # App title
 st.title("🌍 GlonaVox - Speak Beyond Borders 🗣️")
